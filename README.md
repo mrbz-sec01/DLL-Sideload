@@ -163,12 +163,3 @@ Khi thực thi GUP.exe, một session meterpreter được tạo:
 ### 3. Demo PoC
 [Watch video demo](https://youtu.be/IPLsn02-A5I)
 
-# Cấu trúc Repository
-
-```
-PoC-DLL-Sideloading/
-│
-├── DLL-Sideload.md
-└── images/
-    └── *.png
-```
